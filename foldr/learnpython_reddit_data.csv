@@ -1,0 +1,132 @@
+title,text,score,num_comments,created,url,sentiment_neg,sentiment_neu,sentiment_pos,sentiment_compound,Sentiment,date
+I'm a mom learning python - give it to me straight,"Hello,
+
+I'm 33, fresh mom who wants another kid asap and I've worked in corporates as a people manager. Sadly, I didn't make this decision before but I would love to get into IT. I started learning python, doing the 100 days of python course by Angela Yu and I'm enjoying myself. 
+The hard part is that I don't have that much time for it. I manage to do a few hours weekly and that is what I need to finish only one day in the course (currently day 25).
+
+Am I crazy and wasting my time doing this? Will I ever get some junior entry role at this stage? How will I continue learning with this tempo? Give it to me straight.",287,223,2025-07-03 23:05:52,https://www.reddit.com/r/learnpython/comments/1lr29yv/im_a_mom_learning_python_give_it_to_me_straight/,0.067,0.825,0.108,0.8042,Positive,2025-07-03
+How to really start learning python,"Hi guys 
+I have some experience in python like the essentials but I just don’t think this is the correct path , I bean nearly 2 years learning but not that much, So if anyone can help me start good with free resources please .
+Note : I am studying Cisco python essentiall 1 right now ",27,37,2025-07-18 11:26:09,https://www.reddit.com/r/learnpython/comments/1m2yp2g/how_to_really_start_learning_python/,0.0,0.775,0.225,0.9481,Positive,2025-07-18
+Learning python from 0 (no coding expirience),"How do you guys recommend to begin learning python, also how many hours a day should i study to learn it as fast as possible, also what free resources do you guys know about that have good information. ",21,34,2025-08-06 17:23:19,https://www.reddit.com/r/learnpython/comments/1mj97yx/learning_python_from_0_no_coding_expirience/,0.0,0.828,0.172,0.8271,Positive,2025-08-06
+Learn Python,"I want to learn Python from the beginning, so anyone can help or guide me? Also, please recommend a good YouTube video
+I am a beginner. Which concepts should I follow so that it becomes easier for me to enter the field of Machine Learning
+Thank you:)",11,24,2025-07-31 13:56:56,https://www.reddit.com/r/learnpython/comments/1me0uj5/learn_python/,0.0,0.709,0.291,0.9356,Positive,2025-07-31
+What's the best way to learn Python?,I wanna learn Python and I've watched YouTube videos but I'd like to know if there are better ways to learn,0,21,2025-08-08 22:23:40,https://www.reddit.com/r/learnpython/comments/1ml7ihr/whats_the_best_way_to_learn_python/,0.0,0.72,0.28,0.8658,Positive,2025-08-08
+I want to learn python but where do start,Hey I wanted to get into coding. but i don't where to start and how i should go into this with what mindset,0,13,2025-07-29 13:59:20,https://www.reddit.com/r/learnpython/comments/1mcarow/i_want_to_learn_python_but_where_do_start/,0.0,0.964,0.036,0.0387,Neutral,2025-07-29
+Saw this on r/learnpython,"I think this belongs here:
+
+",651,87,2024-10-12 23:08:20,https://i.redd.it/qco6ifpgfeud1.jpeg,0.0,1.0,0.0,0.0,Neutral,2024-10-12
+I'm super annoyed and taking it out on learnpython,"I've been a senior level software engineer for over 10 years. I have a ton of experience with multiple languages. I've been doing a lot of hard stuff for a very long time. I asked a twitter question to a pretty well-known person in the area I work in the other day, and he got really huffy, assumed that I had no idea what I was doing, told me to not ever do what I was asking about, and told me to go find a different job because I'm not competent to do the one I'm at right now. Never even asked why I was trying to do things a certain way, and just assumed that I was a n00b causing trouble.
+
+&#x200B;
+
+It made me really fucking angry. And it also made me think about how we deal with people we don't know, make assumptions based on questions, and tend to talk shit to people who aren't a part of our in-circle. About how things that people have done for a long time tend to get easier and how we forget how much we didn't know when we were getting started.
+
+&#x200B;
+
+So, I'm taking all my anger at that person out on this sub. I'm going to spend all day tomorrow answering all the questions I possibly can on learnpython in the kindest way I can and with a mentoring attitude where I'll try to understand where you're coming from, what you're trying to achieve, what might be the best way to get to it, and maybe a little extra handholding along the way.
+
+&#x200B;
+
+Be the change you want to see, right?
+
+&#x200B;
+
+Ask me anything about python and anything related to python. I'll spend 12 hours tomorrow answering every question I can.
+
+&#x200B;
+
+&#x200B;
+
+EDIT: man, I was 50/50 on this post getting thrashed by the mods for being a rant. I'm so happy this is getting a lot of responses!
+
+&#x200B;
+
+First of all, thank you to all of you well-wishers encouraging me to not take it so hard. I do take it hard, and that's why I'm trying to resist and do something different with my frustration. To the person who said there needs to be more people like me in the world . . . thanks. That made my day.
+
+&#x200B;
+
+Here are some caveats about my approach: I am not a computer scientist. I don't come from that background. Many of my opinions are not orthodox. I spent the first 20 of my professional life as a classical violinist and music theory teacher. My first technology job was after I read a book on SQL, and my first 3 jobs were nothing but writing SQL. So a lot of my background has come from a data-centric place. It's nice that data is a big thing now! Over the last 13 years though, I've learned python and other languages mostly the hard way, but I've also done a ton of reading academic textbooks because that's how I grew up and learned music theory. So there's going to be some answers where I dive deep into computer science theory and practice and programming language design. Anything I say that isn't verbatim code is just one person's opinion. My word is not gospel. But it's what I have to offer, and I've thought about it a lot.
+
+&#x200B;
+
+I hope I can be really useful answering questions tomorrow and truly kind and helpful to everyone.
+
+&#x200B;
+
+&#x200B;
+
+EditEditEdkt: I changed my mind about being so hostile to the person who gilded me. Thank you kind person, for giving me an imaginary thing to put in my butt while I masturbate.",1431,247,2019-06-09 03:17:26,https://www.reddit.com/r/learnpython/comments/byfigg/im_super_annoyed_and_taking_it_out_on_learnpython/,0.046,0.869,0.085,0.9858,Positive,2019-06-09
+averageInternSearchHistory,,5387,196,2024-12-10 17:28:04,https://i.redd.it/xm57icees16e1.png,0.0,1.0,0.0,0.0,Neutral,2024-12-10
+"Taking a single capsule containing 200 mg of decaffeinated whole coffee cherry extract improves working memory in a placebo-controlled study of middle-aged adults. Whole coffee cherry refers to the entire fruit of the coffee plant, including the outer skin, pulp, and the coffee beans (seeds) inside.",,5685,115,2024-11-28 14:08:30,https://www.psypost.org/whole-coffee-cherry-extract-supplement-might-improve-working-memory/,0.0,0.941,0.059,0.4215,Positive,2024-11-28
+"[META] Can we STOP answering questions here, drop a comment to let the poster know to ask in /r/learnpython, and report accordingly.","I keep finding comments (which I admit I have done once or twice) answering the question at the same time as letting OP know that this post doesn't belong here.  Can we instead agree to comment to that the question belongs in /r/learnpython and report instead of answering?  The more we answer, the more will be asked.
+
+Edit:  In addition to /r/learnpython, the python discord (https://discord.gg/3Abzge7) is a great place to direct questions.",275,181,2018-11-21 02:22:38,https://www.reddit.com/r/Python/comments/9yyiuv/meta_can_we_stop_answering_questions_here_drop_a/,0.074,0.847,0.08,0.1697,Positive,2018-11-21
+Trying to learnPython,"I work as a manual tester and to move forward in my career I need to start learning python. The problem is that every time I try to start, I don't understand anything at all and I start to think that this is not for me, although I know a dozen people who are literally much stupider than me and who manage to learn a programming language and write scripts. I guess I'm looking for guidance from more experienced people. How do I start learning a programming language? What have you done to overcome your own laziness and fear of it?",7,9,2025-08-08 22:28:36,https://www.reddit.com/r/PythonLearning/comments/1ml7mt6/trying_to_learnpython/,0.088,0.912,0.0,-0.8677,Negative,2025-08-08
+Python is a godsend for work,"I wanted to just thank the community for everything here.  Its a real tool to have in your arsenal when things get tough.  Today was the first day I put it into use and it was all due to lurking around this subreddit from people helping out others.   
+
+  
+
+
+My manger felt like pissing me off at work right before the weekend today giving me a huge workload come 4PM.  I was tasked to combine a lot of information with multiple excel sheets that were not formatted alike and he wanted a report by 5PM.  I guess he was thinking I would be manually doing this by opening up each sheet and copying and pasting the information together.  Little did he know I've been reading about python and learning on the side.  The pandas library immediately sprung into my head saying this is going to be easy - dump the raw data frame clean it and merge it together afterwards.  I was not confident writing my own code but poking around with some help from chat gpt plus a bit of self knowledge i was able to finish it in 20 minutes.  
+
+
+
+Funniest thing was after I finished, I sat there pretending to go over emails and he came by asking ""Are you going to be able to provide me the report?  Looks like you will have to stay late to finish this"" with his smug ass look on his face.  He left early and I sent him what he needed right after he was gone.  ",2085,161,2024-12-07 06:26:41,https://www.reddit.com/r/learnpython/comments/1h8ljhc/python_is_a_godsend_for_work/,0.044,0.843,0.112,0.9472,Positive,2024-12-07
+Learn Python with LearnPython,"Hey [learnpython.gr](https://learnpython.gr/) ! I want to share an awesome tool for anyone learning Python or teaching it.
+
+**Why LearnPython?**
+
+*  Live editor & terminal – no installations required  
+* Complete curriculum from beginner to OOP & libraries  
+* Built-in AI assistant available 24/7  
+* Gamification & progress tracking  
+* And of course… absolutely free for everyone
+
+Whether you're just starting out or looking for a playground to test ideas, LearnPython makes learning Python fun andi nteractively. Check it out at [learnpython.gr](https://learnpython.gr/) and let me know what you think! 🚀
+
+\#Python #LearnToCode #Programming #Elearning #AI #Innovation #LearnPythonGR #FamilyProject #TechForEveryone",4,2,2025-07-28 05:14:13,https://www.reddit.com/r/pythontips/comments/1mb6l1n/learn_python_with_learnpython/,0.019,0.806,0.176,0.9537,Positive,2025-07-28
+Python Basics Practical Examples Nos 11 to 30 #learnpython  #facts  #python  #pythonreels,,2,0,2025-07-21 10:41:35,https://youtube.com/shorts/Oc4Xulo5jQM?feature=share,0.0,1.0,0.0,0.0,Neutral,2025-07-21
+What’s that one Python tip you wish you knew when you started?,"I just started learning Python (like, a week ago), I keep seeing posts where people say stuff like ""why did no one tell me about this and that""
+
+So now I’m curious:  
+What’s that ONE Python tip/habit/trick you wish someone had told you when you were a beginner?
+
+Beginner-friendly please. I'm trying to collect wisdom lol",586,266,2025-04-15 19:50:08,https://www.reddit.com/r/learnpython/comments/1jzzsne/whats_that_one_python_tip_you_wish_you_knew_when/,0.026,0.711,0.263,0.956,Positive,2025-04-15
+"I'm a 40 year old Truck Driver learning Python, my thoughts so far...","I have spent most of my free time over the last year learning Python, C++, HTML\\CSS, and taking a very basic cybersecurity course.  I have finished my first little project. It's an email monitor/auto response that's tied to a website that I wrote in Python. And I feel like as a noob that programing is more about knowing where to find and how to read documentation rather than knowing the code.  It makes me feel like an imposter.  Is that normal?  Does that change over time?  Are there any coding practices that I can do or do I just need to keep coding things?",683,142,2025-06-26 16:20:11,https://www.reddit.com/r/learnpython/comments/1ll2uv5/im_a_40_year_old_truck_driver_learning_python_my/,0.01,0.916,0.074,0.8361,Positive,2025-06-26
+You da real MVP,,14560,281,2018-03-14 10:11:22,https://i.redd.it/0g9hjmfnepl01.jpg,0.0,1.0,0.0,0.0,Neutral,2018-03-14
+Chitty Chitty Bang Bang and a big Thank You to /r/learnpython,"In March, 2020, my wife and I started a small business. Without going too deep into the details, we are a small publisher who publishes specialty documents. We distribute in both paper and PDF formats.
+
+Two weeks after we started our business, the world shut down. We somehow survived that period, and I spent the time of the shutdown learning Python. This sub, /r/learnpython, was the best resource I found for learning.
+
+I sorted /r/learnpython by top of all time, then read every link among the first several hundred in the sub. It took months to work through them all, but it was tremendously helpful at getting me started.
+
+The learning process was quick for me, because I worked full time as a software developer for 20+ years, writing C/UNIX code (thus my account name.) Those years of C helped a great deal in learning Python. Some things were difficult to get used to, principle among them is semantic indentation. It makes sense now, but didn't at first. My fingers wanted to add ; { and } all over the place.
+
+The first script I wrote processed incoming orders. The products we rent and sell are complex and expensive, so our order forms are complex. After the customer places an order on our website, it is sent by the Squarespace server to us as an email that contains about 40 key:value pairs in a text file. Like this:
+
+Name: Bart Simpson
+
+Organization: Springfield Elementary
+
+Date Materials Requested: 11/14/2024
+
+The script parses the email, then creates a word document that contains a license for either the rental or the purchase, and another word document that is an invoice for the order. To this day, this script is the biggest time saver in the system. It reduced about 20 minutes of messy mouse diddling down to less than a minute.
+
+After the success of that script, I began automating everything in Python. The system consists of about 10 scripts that process orders, track orders, process credit card payments by communicating with Stripe via its API, communicate with Brevo (email marketing) via its API, add licensing information to every page in the PDF files being rented or sold, alert me to upcoming shipments, help process shipments, and several utilities. 
+
+When I decided to continue with the automation, it became clear that I needed to abandon the first script I wrote. It was dubious at best in terms of the quality of its code. It worked, but was ugly. When writing C in the past, I used C data structures almost like objects, so abstracting our processes into objects was straightforward to accomplish. I rewrote it, and I'm glad I did.
+
+At first, I used an Excel spreadsheet for storing orders and customer data, because that's how I tracked it prior to automating. It soon became clear that a SQL database would be a better route, so I downloaded MySQL, and began storing our data in a SQL database and reading and writing it via MySQL's Python API. SQL allowed all sorts of new capabilities to be easily added to the system.
+
+The user interface consists of a series of Windows Desktop shortcuts. To process an order, I copy the email to the clipboard, then double click on Process Order, which reads the clipboard, then processes the order. Other shortcuts include Approve Rental, Process Payment, Ship, Look Up Order, and Prepare PDFs.
+
+I have taken to calling my system Chitty Chitty Bang Bang, because like Dick Van Dyke's character in that movie, I'm the only one who knows how this all works. Since I am also the only one who will maintain it, it was designed for maximum maintainability, following many of the practices I used while writing C. Lengthy, descriptive variable names are a favorite technique of mine. 
+
+The system now consists of about 5,000 lines of Python. I can't even imagine how many lines of C it would take to do all this. I'm glad to have built Chitty using Python.
+
+Thanks, /r/learnpython. You have been a wonderful help to me many times.",96,8,2024-11-18 21:56:35,https://www.reddit.com/r/learnpython/comments/1gufbbc/chitty_chitty_bang_bang_and_a_big_thank_you_to/,0.029,0.849,0.122,0.9971,Positive,2024-11-18
+"Milestone - 1,000 lines of code - TU r/learnpython!","Hi friends,
+
+Just wanted to tell you all that I reached my first 1,000 lines of Python code (wanted to show a pic, but not allowed). I'm going through the book Python Crash Course, 2nd edition and doing all the exercises and some of the examples. Strongly recommend this resource, as so many others already have done. Also, I want to say a huge thank you to this community! I wouldn't have come this far without you <3",327,48,2020-11-27 10:52:26,https://www.reddit.com/r/learnpython/comments/k1yd6u/milestone_1000_lines_of_code_tu_rlearnpython/,0.065,0.764,0.17,0.8283,Positive,2020-11-27
